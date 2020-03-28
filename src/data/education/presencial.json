@@ -1,0 +1,17 @@
+{
+    "slug": "presencial",
+    "title": "Formación académica",
+    "description": "Formación académica, grados de estudio e instituciones a las que asistí",
+    "items": [
+        {
+            "name": "Universidad EIA",
+            "degree": "Ingeniería Mecatrónica",
+            "score": "3.74"
+        },
+        {
+            "name": "Concentración El Tejar",
+            "degree": "Técnico en Agroindustria Alimentaria",
+            "score": "XX"
+        }
+    ]
+}

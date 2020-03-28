@@ -1,0 +1,23 @@
+{
+    "slug": "online",
+    "title": "Cursos en línea",
+    "description": "Cursos finalizados en plataformas de educación en internet",
+    "items": [
+        {
+            "name": "Beca Platzi MINTIC",
+            "url": "https://mintic.platzi.com/clases/"
+        },
+        {
+            "name": "Curso profesional de bases de datos",
+            "url": "https://codigofacilito.com/cursos/base-datos-profesional"
+        },
+        {
+            "name": "Curso profesional de JavaScript",
+            "url": "https://codigofacilito.com/cursos/javascript-profesional"
+        },
+        {
+            "name": "Curso de fundamentos de React",
+            "url": "https://codigofacilito.com/cursos/react-intro-gratis"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": {
+        "email":"jntian2104@gmail.com",
+        "username":"jn_solano",
+        "certificates":[
+            {
+                "score":9,
+                "code":"3a7987cc-9cfd-4986-ad3f-a0a364c76a67",
+                "title":"Curso Profesional de Base de Datos"
+            }
+        ],
+        "articles":[],
+        "courses":[
+            {
+                "title":"Curso Profesional de Base de Datos",
+                "progress":"96.0",
+                "url":"http://codigofacilito.com/courses/base-datos-profesional"
+            },
+            {
+                "title":"Curso Profesional de JavaScript",
+                "progress":"91.0",
+                "url":"http://codigofacilito.com/courses/javascript-profesional"
+            },
+            {
+                "title":"JavaScript y el DOM",
+                "progress":"13.0",
+                "url":"http://codigofacilito.com/courses/javascript-dom"
+            },
+            {
+                "title":"Crea un sitio personal con Gatsby",
+                "progress":"57.0",
+                "url":"http://codigofacilito.com/courses/sitio-persional-gatsby"
+            },
+            {
+                "title":"Curso de Fundamentos de React",
+                "progress":"100.0",
+                "url":"http://codigofacilito.com/courses/react-intro-gratis"
+            }
+        ],
+        "finished_courses":[
+            {
+                "title":"Curso de Fundamentos de React",
+                "url":"http://codigofacilito.com/courses/react-intro-gratis"
+            }
+        ]
+    },
+    "errors":[]
+}
